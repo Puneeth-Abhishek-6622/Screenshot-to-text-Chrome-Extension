@@ -1,0 +1,1 @@
+# Screenshot-to-text-Chrome-Extension
